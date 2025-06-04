@@ -13,7 +13,7 @@ Hi, I’m Antonio. I'm a certified data analyst with a background in automotive 
 - CRM & lead funnel analysis
 
 ### 📂 Projects
-[Comparing Gross between local and out of town customers](https://github.com/AntoniosAnalytics/Comparing_Intown_vs_OutOfTown_Profit)
+[Comparing Gross Between Local and Out-of-Town Customers](https://github.com/AntoniosAnalytics/Comparing_Intown_vs_OutOfTown_Profit)
 
 ### 🌐 Connect
 - [LinkedIn](www.linkedin.com/in/antonio-gaskill)
